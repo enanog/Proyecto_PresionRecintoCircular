@@ -1,0 +1,5 @@
+Added Component: Designator=Jx(SIP20*2)
+Added Member To Class: ClassName=Circuito Member=Component J3 CON7*2
+Added Member To Class: ClassName=Circuito Member=Component J4 CON7*2
+Added Member To Class: ClassName=Circuito Member=Component J5 CON6*2
+Added Member To Class: ClassName=Circuito Member=Component Jx CON20*2

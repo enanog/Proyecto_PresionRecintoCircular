@@ -1,0 +1,209 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Add component: Footprint Not Found 0805
+Added Component: Designator=J1(JACKDC)
+Added Component: Designator=J2(JACKDC)
+Added Component: Designator=J3(SIP20*2)
+Added Component: Designator=J4(MOLEX3)
+Added Component: Designator=J5(MOLEX3)
+Added Component: Designator=J6(MOLEX3)
+Add component: Footprint Not Found RES400
+Add component: Footprint Not Found RES400
+Add component: Footprint Not Found RES400
+Added Component: Designator=U1(TO-220 V)
+Added Component: Designator=U2(TO-220 V)
+Added Component: Designator=U3(SOIC-14)
+Added Component: Designator=U4(CD4051)
+Added Component: Designator=U5(CD4051)
+Added Component: Designator=U6(CD4051)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=-5 Pin=C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Added Pin To Net: NetName=NetC1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetC2_2 Pin=J2-2
+Added Pin To Net: NetName=CH1 Pin=J3-1
+Added Pin To Net: NetName=CH2 Pin=J3-2
+Added Pin To Net: NetName=CH3 Pin=J3-3
+Added Pin To Net: NetName=CH4 Pin=J3-4
+Added Pin To Net: NetName=CH5 Pin=J3-5
+Added Pin To Net: NetName=CH6 Pin=J3-6
+Added Pin To Net: NetName=CH7 Pin=J3-7
+Added Pin To Net: NetName=CH8 Pin=J3-8
+Added Pin To Net: NetName=CH9 Pin=J3-9
+Added Pin To Net: NetName=CH10 Pin=J3-10
+Added Pin To Net: NetName=CH11 Pin=J3-11
+Added Pin To Net: NetName=CH12 Pin=J3-12
+Added Pin To Net: NetName=CH13 Pin=J3-13
+Added Pin To Net: NetName=CH14 Pin=J3-14
+Added Pin To Net: NetName=CH15 Pin=J3-15
+Added Pin To Net: NetName=CH16 Pin=J3-16
+Added Pin To Net: NetName=CH17 Pin=J3-17
+Added Pin To Net: NetName=CH18 Pin=J3-18
+Added Pin To Net: NetName=CH19 Pin=J3-19
+Added Pin To Net: NetName=CH20 Pin=J3-20
+Added Pin To Net: NetName=-5 Pin=J3-21
+Added Pin To Net: NetName=-5 Pin=J3-22
+Added Pin To Net: NetName=-5 Pin=J3-23
+Added Pin To Net: NetName=-5 Pin=J3-24
+Added Pin To Net: NetName=-5 Pin=J3-25
+Added Pin To Net: NetName=-5 Pin=J3-26
+Added Pin To Net: NetName=-5 Pin=J3-27
+Added Pin To Net: NetName=-5 Pin=J3-28
+Added Pin To Net: NetName=-5 Pin=J3-29
+Added Pin To Net: NetName=-5 Pin=J3-30
+Added Pin To Net: NetName=-5 Pin=J3-31
+Added Pin To Net: NetName=-5 Pin=J3-32
+Added Pin To Net: NetName=-5 Pin=J3-33
+Added Pin To Net: NetName=-5 Pin=J3-34
+Added Pin To Net: NetName=-5 Pin=J3-35
+Added Pin To Net: NetName=-5 Pin=J3-36
+Added Pin To Net: NetName=-5 Pin=J3-37
+Added Pin To Net: NetName=-5 Pin=J3-38
+Added Pin To Net: NetName=-5 Pin=J3-39
+Added Pin To Net: NetName=-5 Pin=J3-40
+Added Pin To Net: NetName=IN_C Pin=J4-1
+Added Pin To Net: NetName=IN_B Pin=J4-2
+Added Pin To Net: NetName=IN_A Pin=J4-3
+Added Pin To Net: NetName=+5 Pin=J5-1
+Added Pin To Net: NetName=-5 Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=ADC1 Pin=J6-1
+Added Pin To Net: NetName=ADC2 Pin=J6-2
+Added Pin To Net: NetName=ADC3 Pin=J6-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Pin To Net: NetName=-5 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+5 Pin=U2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U2-3
+Added Pin To Net: NetName=ADC1 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetC11_1 Pin=U3-3
+Added Pin To Net: NetName=+5 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=NetC12_1 Pin=U3-6
+Added Pin To Net: NetName=ADC2 Pin=U3-7
+Added Pin To Net: NetName=ADC3 Pin=U3-8
+Added Pin To Net: NetName=NetC13_1 Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=-5 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=NetU3_13 Pin=U3-13
+Added Pin To Net: NetName=NetU3_13 Pin=U3-14
+Added Pin To Net: NetName=CH5 Pin=U4-1
+Added Pin To Net: NetName=CH7 Pin=U4-2
+Added Pin To Net: NetName=NetC11_1 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=CH6 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=-5 Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=IN_C Pin=U4-9
+Added Pin To Net: NetName=IN_B Pin=U4-10
+Added Pin To Net: NetName=IN_A Pin=U4-11
+Added Pin To Net: NetName=CH4 Pin=U4-12
+Added Pin To Net: NetName=CH1 Pin=U4-13
+Added Pin To Net: NetName=CH2 Pin=U4-14
+Added Pin To Net: NetName=CH3 Pin=U4-15
+Added Pin To Net: NetName=+5 Pin=U4-16
+Added Pin To Net: NetName=CH12 Pin=U5-1
+Added Pin To Net: NetName=CH14 Pin=U5-2
+Added Pin To Net: NetName=NetC12_1 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=CH13 Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=-5 Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=IN_C Pin=U5-9
+Added Pin To Net: NetName=IN_B Pin=U5-10
+Added Pin To Net: NetName=IN_A Pin=U5-11
+Added Pin To Net: NetName=CH11 Pin=U5-12
+Added Pin To Net: NetName=CH8 Pin=U5-13
+Added Pin To Net: NetName=CH9 Pin=U5-14
+Added Pin To Net: NetName=CH10 Pin=U5-15
+Added Pin To Net: NetName=+5 Pin=U5-16
+Added Pin To Net: NetName=CH19 Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetC13_1 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=CH20 Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=-5 Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=IN_C Pin=U6-9
+Added Pin To Net: NetName=IN_B Pin=U6-10
+Added Pin To Net: NetName=IN_A Pin=U6-11
+Added Pin To Net: NetName=CH18 Pin=U6-12
+Added Pin To Net: NetName=CH15 Pin=U6-13
+Added Pin To Net: NetName=CH16 Pin=U6-14
+Added Pin To Net: NetName=CH17 Pin=U6-15
+Added Pin To Net: NetName=+5 Pin=U6-16
+Added Member To Class: ClassName=Circuito Member=Component C1 330n
+Added Member To Class: ClassName=Circuito Member=Component C2 330n
+Added Member To Class: ClassName=Circuito Member=Component C3 100n
+Added Member To Class: ClassName=Circuito Member=Component C4 100n
+Add Class Member: Failed to add class member : Component C5 100n
+Add Class Member: Failed to add class member : Component C6 100n
+Add Class Member: Failed to add class member : Component C7 100n
+Add Class Member: Failed to add class member : Component C8 100n
+Add Class Member: Failed to add class member : Component C9 100n
+Add Class Member: Failed to add class member : Component C10 100n
+Add Class Member: Failed to add class member : Component C11 1n
+Add Class Member: Failed to add class member : Component C12 1n
+Add Class Member: Failed to add class member : Component C13 1n
+Added Member To Class: ClassName=Circuito Member=Component J1 JACKDC
+Added Member To Class: ClassName=Circuito Member=Component J2 JACKDC
+Added Member To Class: ClassName=Circuito Member=Component J3 CON20*2
+Added Member To Class: ClassName=Circuito Member=Component J4 MOLEX3
+Added Member To Class: ClassName=Circuito Member=Component J5 MOLEX3
+Added Member To Class: ClassName=Circuito Member=Component J6 MOLEX3
+Add Class Member: Failed to add class member : Component R1 1K
+Add Class Member: Failed to add class member : Component R2 1K
+Add Class Member: Failed to add class member : Component R3 1K
+Added Member To Class: ClassName=Circuito Member=Component U1 LM7905
+Added Member To Class: ClassName=Circuito Member=Component U2 LM7805
+Added Member To Class: ClassName=Circuito Member=Component U3 TL084
+Added Member To Class: ClassName=Circuito Member=Component U4 CD4051
+Added Member To Class: ClassName=Circuito Member=Component U5 CD4051
+Added Member To Class: ClassName=Circuito Member=Component U6 CD4051

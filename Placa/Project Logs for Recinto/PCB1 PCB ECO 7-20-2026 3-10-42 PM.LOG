@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=CH18 Pin=Jx-21
+Removed Pin From Net: NetName=CH15 Pin=Jx-22
+Removed Member From Class: ClassName=Circuito Member=Jx
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Added Component: Designator=J3(SIP20*2)
+Added Pin To Net: NetName=-5 Pin=J3-1
+Added Pin To Net: NetName=-5 Pin=J3-2
+Added Pin To Net: NetName=-5 Pin=J3-3
+Added Pin To Net: NetName=-5 Pin=J3-4
+Added Pin To Net: NetName=-5 Pin=J3-5
+Added Pin To Net: NetName=-5 Pin=J3-6
+Added Pin To Net: NetName=-5 Pin=J3-7
+Added Pin To Net: NetName=-5 Pin=J3-8
+Added Pin To Net: NetName=-5 Pin=J3-9
+Added Pin To Net: NetName=-5 Pin=J3-10
+Added Pin To Net: NetName=-5 Pin=J3-11
+Added Pin To Net: NetName=-5 Pin=J3-12
+Added Pin To Net: NetName=-5 Pin=J3-13
+Added Pin To Net: NetName=-5 Pin=J3-14
+Added Pin To Net: NetName=-5 Pin=J3-15
+Added Pin To Net: NetName=-5 Pin=J3-16
+Added Pin To Net: NetName=-5 Pin=J3-17
+Added Pin To Net: NetName=-5 Pin=J3-18
+Added Pin To Net: NetName=-5 Pin=J3-19
+Added Member To Class: ClassName=Circuito Member=Component J3 CON20*2

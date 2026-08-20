@@ -1,0 +1,12 @@
+# Altium Designer - Carpetas generadas y temporales
+**/History/
+**/__Previews/
+**/Project Logs*/
+**/Project Outputs*/
+
+# Archivos temporales y de vista previa de Altium
+*.PcbDocPreview
+*.SchDocPreview
+*.CompileLog
+*.htm
+*.SchDoc.Zip
